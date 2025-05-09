@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">lab01</string>
+    <string name="header">Demo_Constraint</string>
+    <string name="Button_sum">Tổng</string>
+    <string name="nh_p_a">Nhập A</string>
+    <string name="k_t_qu">Kết quả</string>
+    <string name="nh_p_b">Nhập B</string>
 </resources>

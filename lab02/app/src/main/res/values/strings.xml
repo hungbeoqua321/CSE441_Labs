@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab02</string>
+    <string name="toolbar_title">Bai2_vongdoi</string>
+    <string name="demo_cycle_life">Demo Cycle Life</string>
+    <string name="call_dialog">Call Dialog</string>
+    <string name="ch_o_cse441">Chào CSE441</string>
+    <string name="ok">OK</string>
+</resources>
