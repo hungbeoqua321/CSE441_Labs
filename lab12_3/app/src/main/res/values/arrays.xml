@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="category_array">
+        <item>hàng điện tử</item>
+        <item>hàng hóa chất</item>
+        <item>hàng gia dụng</item>
+    </string-array>
+</resources>
+
